@@ -1,6 +1,6 @@
 ---
 name: skills-guide
-description: Claude Code Skills 完整指南。当用户询问"什么是 skills"、"怎么创建 skill"、"帮我找个能做XX的 skill"、"skills.sh"、"skill 推荐"、"安装 skill"，或任何关于扩展 Claude 能力的问题时触发。也适用于用户想要发现、评估或学习创建自己的 skills。
+description: Comprehensive guide for discovering, understanding, and installing Claude Code skills from skills.sh marketplace. Use this skill when users want to (1) browse or search skills.sh for recommendations, (2) get skill recommendations by role (developer, marketer, designer, product manager), (3) understand how a specific installed skill works by reading and explaining its SKILL.md, (4) learn the anatomy and structure of skills, or (5) find and install skills that match their specific workflow needs. This is NOT for creating new skills (use skill-creator instead).
 ---
 
 # Skills 完整指南
